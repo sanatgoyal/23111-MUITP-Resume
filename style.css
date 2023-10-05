@@ -1,0 +1,81 @@
+body{
+    background-color: grey;
+    font-family: 'Luxurious Roman', cursive;
+}
+.container{
+    width: 1000px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    height: 850px;
+}
+img{
+    width: 100px;
+    border-radius: 5px;
+}
+h4{
+    margin: 0px;
+}
+.space{
+    margin-top: 10px;
+}
+.section{
+    float: left;
+}
+.name{
+    font-family: 'Luxurious Roman', cursive;
+font-family: 'Poppins', sans-serif;
+font-size: 30px;
+padding-left: 100px;
+margin-left: 155px;
+}
+h1{
+    margin: 0px;
+}
+.profile{
+    background-color: #EEE;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    margin-left: 250px;
+    margin-top: 25px;
+border-radius: 20px;
+margin-bottom: 40px;
+}
+.main{
+    background-color: black;
+    color: white;
+    width: fit-content;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.edu{
+    margin-bottom: 20px;
+}
+.left{
+    width: 500px;
+    float: left;
+}
+.icon{
+    float: left;
+    width: 30px;
+}
+.link{
+    position: inline-block;
+}
+.link{
+    background-color: #EEE;
+    padding: 10px;
+    margin-left: 550px;
+    padding-top: 2px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}
+.right{
+    margin-bottom: 30px;
+}
